@@ -5,7 +5,7 @@ TEAM: Naughty Solution |               Ali Khazendar,
                                       
 ---------------------------------------------------------------------------------------------
 
-File: https://www.kaggle.com/kevinmh/fifa-18-more-complete-player-dataset/downloads/complete.csv/5
+File: https://www.kaggle.com/kevinmh/fifa-18-more-complete-player-dataset/downloads/complete.csv
 
 Link 1: https://www.kaggle.com/kevinmh/fifa-18-more-complete-player-dataset/data
 
