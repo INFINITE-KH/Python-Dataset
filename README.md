@@ -25,4 +25,4 @@ Question 4:
   What is the frequency of age, height and weight for all players
   
 Question 5: 
-  How big is the average difference between value and wage off the players
+  How big is the average difference between value and wage of the players
