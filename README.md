@@ -9,7 +9,7 @@ File: https://www.kaggle.com/kevinmh/fifa-18-more-complete-player-dataset/downlo
 
 Link 1: https://www.kaggle.com/kevinmh/fifa-18-more-complete-player-dataset/data
 
-The first link contains data for FIFA 18 players, the information that is given shows,
+The link contains data for FIFA 18 players, the information that is given shows,
 which team the player is in, the value of the player etc.
 
 Question 1:
